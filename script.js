@@ -42,6 +42,5 @@ window.addEventListener(
     class Game {
       // all logic will come together.
     }
-  },
-  false
+  }
 );
