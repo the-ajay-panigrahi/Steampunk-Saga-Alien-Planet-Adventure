@@ -15,10 +15,10 @@ body {
   border: 5px solid black;
   position: absolute;
   /* to center */
-  /* top: 50%;
+  top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); */
-  background-color: #4d79bc;
+  transform: translate(-50%, -50%);
+/*   background-color: #4d79bc;
   max-width: 100%;
-  max-width: 100%;
+  max-width: 100%; */
 }
